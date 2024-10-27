@@ -1,0 +1,21 @@
+*{
+    background-color: beige;
+}
+
+#title{
+    color: grey;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    color: #aeabab;
+    font-size: 24px;
+}
+
+ol{
+    font-size:27px;
+    font-style: italic;
+    color: rgb(108, 110, 112);
+}
