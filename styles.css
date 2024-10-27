@@ -7,15 +7,24 @@
     font-size: 36px;
     font-style: italic;
     font-weight: bold;
+    background-color: blanchedalmond;
+    width: 150px;
+    height: 100px;
+    margin:auto;
+    border-radius: 25px;
 }
 
 h1 {
     color: #aeabab;
     font-size: 24px;
+    margin: 20px;
+    text-align: center;
 }
 
 ol{
     font-size:27px;
     font-style: italic;
     color: rgb(108, 110, 112);
+    text-align: center;
+    list-style-position: inside;
 }
